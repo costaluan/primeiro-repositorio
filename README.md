@@ -3,5 +3,5 @@
 ## Introdução
 ### Objetivos
 
-- Permitir rodasr
-- Colocar na nuve
+- Permitir rodar
+- Colocar na nuvem
