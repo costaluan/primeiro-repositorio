@@ -10,5 +10,9 @@
 - Colocar na nuvem
 
 **Texto em negrito**
+  
 ***Texto em italico***
+  
 ~~Texto riscado~~
+  
+[clique neste link](www.google.com)
