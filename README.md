@@ -9,3 +9,6 @@
 - Permitir rodar
 - Colocar na nuvem
 
+**Texto em negrito**
+***Texto em italico***
+~~Texto riscado~~
