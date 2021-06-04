@@ -1,2 +1,7 @@
 # Primeiro repositorio
-Alterações feitas github
+
+## Introdução
+### Objetivos
+
+- Permitir rodasr
+- Colocar na nuve
